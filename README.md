@@ -1,5 +1,6 @@
 # Si Mbok Intik
-Landing Page Website Submission for Website Contest by Institut Teknologi Surabaya
+Landing Page Website Submission for Website Contest by Institut Teknologi Sepuluh Nopember
+
 
 # Konsep Website
 Si Mbok Intik Landing Page adalah sebuah laman daring yang dirancang khusus untuk memfasilitasi promosi dan pemesanan produk dari UMKM bernama Si Mbok Intik. UMKM ini terinspirasi dari butik nyata yang menawarkan koleksi batik khas Jawa Barat dengan nuansa modern namun tetap menjunjung tinggi nilai-nilai tradisional. Batik sendiri merupakan warisan budaya yang sangat berharga di tanah Sunda, dan keberadaannya tidak hanya mencerminkan estetika, tetapi juga identitas dan filosofi masyarakat setempat. Oleh karena itu, situs ini hadir sebagai jembatan antara perajin lokal dan masyarakat luas agar karya mereka dapat dikenal dan diapresiasi lebih luas.
